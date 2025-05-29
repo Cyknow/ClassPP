@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Nav.css";
-import bgimg from "../../Images/new.jpg";
+
 
 const Nav = () => {
 

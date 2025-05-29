@@ -1,4 +1,4 @@
 .bgimg {
-    background-image: url(../../Images/new.jpg);
+    background-image: url("./images/new.jpg");
     height: 50rem;
 }
